@@ -79,9 +79,9 @@ public class QuadraticRoots {
 
 ```
 #OUTPUT
-![CASE-1 OUTPUT](case1.png)
-![CASE-2 OUTPUT](case2.png)
-![CASE-3 OUTPUT](case3.png)
+![CASE-1 D>0](case1.png)
+![CASE-2 D==0](case2.png)
+![CASE-3 D<0](case3.png)
 
 
 
