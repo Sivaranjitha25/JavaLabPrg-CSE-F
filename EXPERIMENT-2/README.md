@@ -43,4 +43,4 @@ class MethodOverloading {
 
 ```
 #output
-![output of exp 2b](ex2b.png)
+![output of exp 2b](exp2b.png)
