@@ -18,4 +18,4 @@ class MyClass {
 
 ```
 # OUTPUT
-![OUTPUT OF EXP-2A](exp2a.png)
+![OUTPUT OF exp-2a](exp2a.png)
