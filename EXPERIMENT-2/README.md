@@ -18,7 +18,7 @@ class MyClass {
 
 ```
 # OUTPUT
-![OUTPUT OF exp-2a](exp 2a.png)
+![OUTPUT OF exp-2a](exp2a.png)
 
 
 ##exp 2b tittle: method overloading
@@ -43,7 +43,7 @@ class MethodOverloading {
 
 ```
 #output
-![output of exp 2b](exp 2b.png)
+![output of exp 2b](exp2b.png)
 
 
 ##exp 2c title:to implement constructor
@@ -69,4 +69,4 @@ class Student {
 }
 ```
 #output
-![output of exp 2c](exp 2c.png)
+![output of exp 2c](exp2c.png)
