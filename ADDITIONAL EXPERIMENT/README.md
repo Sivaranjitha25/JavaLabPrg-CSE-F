@@ -154,7 +154,7 @@ class Perfect {
     }
 }
 ```
-![output of perrfect number](Addexp4.png)
+![output of perrfect number](Addexp4.png) 
 
 
 
