@@ -1,5 +1,5 @@
 # ADDITIONAL EXPERIMENTS
-## TITLE :1) INSERT A SU8BSTRING
+## TITLE :1) INSERT A SUBSTRING
 ```java
 import java.util.Scanner;
 
