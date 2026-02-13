@@ -100,7 +100,6 @@ public class RuntimePolymorphismDemo {
 ![output of RuntimePolymorphism](exp5b.png)
 
 
-
 ## TITLE:StringBuffer
 ```java
 public class StringBufferDemo {
